@@ -1,0 +1,233 @@
+body{
+    margin:0%;
+}
+/*start header*/
+.header_menu{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-left: 9.8%;
+    padding-right: 9.8%;
+}
+.style_header_menu{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.index_vector{
+    text-align: center;
+    margin-top: 20px;
+}
+/*Конец Header*/
+/*start denis novik*/
+.denis_nov{
+    display: flex;
+    justify-content: space-around;
+}
+.novik{
+    margin-left: 5.5%;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+.style_novik{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.ux{
+    margin-top: 50px;
+    width: 130px;
+    height: 100px;
+}
+.style_ux{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.en{
+    transform: rotate(-90deg);
+    margin-left: 180px;
+}
+.style_en_ru{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+}
+.main_pic{
+    margin-left: 210px;
+}
+/*конец denis novik*/
+/* Rectangle */
+.rectangle{
+    width: 1349px;
+    height: 506px;
+    background: #F6F6F6;
+    margin-top: 100px;
+}
+.style_about{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 200px;
+}
+.container_text_rectangle{
+    width: 600px;
+height: 200px;
+padding-left: 370px;
+text-align: center;
+}
+.style_text_rectangle{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: balck;
+}
+/*конец Rectangle */
+/*начало Rectangle7*/
+.rectangle7{
+    width: 1349px;
+    height: 600px;
+}
+.skills{
+    width: auto;
+    height: auto;
+    text-align: center;
+    
+}
+.style_skills{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-top: 100px;
+}
+.style_text_skills{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-top: 50px;
+}
+.group{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.style_photo_group{
+    width: 120px;
+    height: 150px;
+}
+/*конец Rectangle7*/
+/*начало rectangle8*/
+.rectangle8{
+    background: #F6F6F6;
+    width: 1349px;
+    height: 2200px;
+}
+.portfolio{
+   text-align: center;
+    width: auto;
+    height: auto;
+    padding-top: 100px;
+}
+.style_portfolio{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+}
+.woman{
+    padding-top: 40px;
+    text-align: center;
+}
+.woman_a{
+    text-align: center;
+    padding-top: 40px;
+}
+.style_woman_a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.reebok{
+    margin-top: 60px;
+    text-align: center;
+}
+.reebok_a{
+    text-align: center;
+    padding-top: 40px;
+}
+.reebok_style_a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.braun{
+    margin-top: 60px;
+    text-align: center;
+}
+.braun_a{
+    text-align: center;
+    padding-top: 40px;
+}
+.style_braun_a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black; 
+}
+/*конец rectangle8*/
+/*начало footer*/
+footer{
+    height: 500px;
+}
+.contacts{
+    margin-left: 550px;
+    width: 250px;
+    text-align: center;
+    padding-top: 100px;
+}
+.style_contacts{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+.style_text_contacts{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.style_button{
+    background-color: black;
+    border-radius: 10px;
+    border-color: black;
+    margin-top: 20px;
+    margin-left: 575px;
+    width: 200px;
+    height: 40px;
+}
+.style_but{
+    color: white;
+     font-size: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+     font-weight: bold;
+}
+.footervector{
+    text-align: center;
+    margin-top: 40px;
+}
+.text1{
+    margin-top: 40px;
+margin-left: 580px;
+text-align: center;
+width: 200px;
+height: 100px;
+}
+.style__text1{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #828282;
+}
+/*конец footer*/
